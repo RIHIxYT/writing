@@ -8,6 +8,7 @@ A small personal collection of essays, thoughts, and creative work by Muhammad S
 
 - [**Segregation Breeds Tharak**](./essays/segregation-breeds-tharak.md)  
   A reflection on gender, society, and how over-conservative mindsets lead to objectification and emotional immaturity.  
+
   **Written:** March 01, 2025
 
 ---
